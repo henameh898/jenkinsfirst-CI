@@ -10,6 +10,7 @@ System.out.println("jenkins build");
 System.out.println("trigger build for web");
 System.out.println("manual build");
 System.out.println("just trying webhook");
+System.out.println("webhook");
 	}
 
 }
