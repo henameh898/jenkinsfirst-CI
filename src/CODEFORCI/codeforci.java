@@ -6,6 +6,7 @@ public class codeforci {
 		// TODO Auto-generated method stub
 System.out.println("jenkins firstproject for CI");
 System.out.println(20-10);
+System.out.println("jenkins build");
 	}
 
 }
